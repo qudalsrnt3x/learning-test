@@ -1,0 +1,9 @@
+### order
+POST http://localhost:9191
+content-type: application/json
+
+{
+  "id": 1,
+  "productId": 1,
+  "quantity": 3
+}
